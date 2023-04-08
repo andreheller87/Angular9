@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Canela Bic preta",
+      "price": "4.65"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac pro",
+      "price": 12000
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Forno",
+      "price": "1913.99",
+      "id": 4
+    },
+    {
+      "name": "Mesa",
+      "price": "2580.85",
+      "id": 5
+    },
+    {
+      "name": "Forno Microondas",
+      "price": "560.00",
+      "id": 7
+    }
+  ]
+}
